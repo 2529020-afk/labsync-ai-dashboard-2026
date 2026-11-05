@@ -1,0 +1,6 @@
+{
+  "name": "LABSYNC AI - Autonomous Laboratory OS",
+  "description": "Full-screen AI-powered laboratory operating system with live instrument monitoring, bookings, fault tracking, component telemetry, and copilot diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
